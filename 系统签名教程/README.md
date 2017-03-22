@@ -5,4 +5,5 @@ java -jar signapk.jar platform.x509.pem platform.pk8 unsigned.apk signed.apk
 * unsigned.apk是签名前APK的完整路径
 * signed.apk是签名后APK的完整路径
 ## 注意事项
+* 需提前安装好JDK并配置环境变量
 * 执行命令需要在和signapk.jar同一目录下
