@@ -7,3 +7,8 @@ java -jar signapk.jar platform.x509.pem platform.pk8 unsigned.apk signed.apk
 ## 注意事项
 * 需提前安装好JDK并配置环境变量
 * 执行命令需要在和signapk.jar同一目录下
+## 厂商列表
+* byd-比亚迪
+* hlt-合力泰
+* lianbao-联宝
+* wld-万利达
